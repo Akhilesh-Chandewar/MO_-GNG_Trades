@@ -1,0 +1,5 @@
+userID = "DIVK0707";
+password = "Divk@12";
+PANorDOB = "07/09/1996";
+vendorId = "STROKE";
+Apikey = "qUVfP7TM2wU1NRkE";
